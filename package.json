@@ -11,6 +11,6 @@
     "react-dom": "latest"
   },
   "engines": {
-    "node": ">=18 <19"
+    "node": "24.x"
   }
 }
